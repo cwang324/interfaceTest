@@ -21,5 +21,3 @@ public class Prism extends Rectangle implements Volume{
 	return getLength() * getWidth() * height;
     }
 }
-
-aeruhaoweriuhowiehroaiwheroiawejroijwaeorijawoeirjaoirje
