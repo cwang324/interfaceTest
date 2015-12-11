@@ -12,6 +12,9 @@ public class Prism extends Rectangle{
     }
 
     public String toString(){
-	return "FIXME!";
+	return "Prism" + getName() + " with length=" + getLength()
+	    + ", width=" + getWidth() + ", and height=" + height;
+	    
+	    ;
     }
 }
